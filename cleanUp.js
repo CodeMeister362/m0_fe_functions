@@ -45,7 +45,7 @@ function average(num1, num2) {
   var sum = num1 + num2;
   var avg = sum / 2;
   console.log(`the average is: ${avg}`)
-  }
+}
 
 average(4, 5);
 //For example 4 I've brought the curly bracket back up to line 44. Indented line 45. Took away space on line 46. Deleted the . before the last parenthesis on the console.log. I've also called the funtion with 4 and 5 in order to get it to carry out its instructions.
